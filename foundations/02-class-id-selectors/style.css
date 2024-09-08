@@ -1,0 +1,19 @@
+.red-warn{
+    background-color: rgb(235, 98, 98);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#blue-message{
+    color: hsl(231, 92%, 54%);
+    font-size: 36px;
+}
+
+.font-warn{
+    font-size: 24px;
+}
+
+#green-message{
+    background-color: #AAFFAA;
+    font-size: 24px;
+    font-weight: bold;
+}
